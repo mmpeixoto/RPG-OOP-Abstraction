@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\Curso\C#\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\Matheus\Desktop\Curso\C#\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\Matheus\Desktop\Curso\C#\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\Matheus\Desktop\Curso\C#\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\Curso\C#\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\Matheus\Desktop\Curso\C#\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\Matheus\Desktop\Curso\C#\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Curso\C#\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Curso\C#\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Curso\C#\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Curso\C#\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\Matheus\Desktop\Curso\C#\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\Matheus\Desktop\Curso\C#\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
